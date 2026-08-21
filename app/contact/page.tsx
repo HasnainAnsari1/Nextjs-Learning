@@ -8,6 +8,7 @@
 //         <Card heading="T-shirt" para="T-shirt for mens"/>
 //         <Card heading="Hoddie" para="Hoddie for womens"/>
 //         <div>Hello from Contact</div>
+//         <Card />
 //         </>
 //     )
 // }

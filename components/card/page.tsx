@@ -24,3 +24,24 @@
 //         </div>
 //     )
 // }
+
+// To Fetch Data 
+
+// type post={
+//     id:number;
+//     name:string;
+//     email:string
+// }
+
+
+// export default async function Card(){
+//     const data = await fetch('https://jsonplaceholder.typicode.com/users')
+//     const post = await data.json()
+//     return(
+//         <ul>
+//             {post.map((post:post)=>(
+//                 <li key={post.id}>{post.name}--{post.email}</li>
+//             ))}
+//         </ul>
+//     )
+// }
