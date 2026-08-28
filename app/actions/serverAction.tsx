@@ -1,9 +1,9 @@
-// "use server"
+"use server"
 
-// async function serverAction() {
-//   return (
-//     console.log('This Button Execute on Server')
-//   )
-// }
+async function serverAction() {
+  return (
+    console.log('This Button Execute on Server')
+  )
+}
 
-// export default serverAction
+export default serverAction
